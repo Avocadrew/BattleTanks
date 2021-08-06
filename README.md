@@ -1,3 +1,2 @@
 # BattleTanks
- A tank game made with Unity3D for CS2018
- 2018 
+ A tank game made in Unity3D with C# for CS2018
