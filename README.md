@@ -1,4 +1,4 @@
-# BattleTanks
+# Battle Tanks
 #### Jun-Yu (Andrew) Chen, Ethan Kuan
 
 ## Introduction
